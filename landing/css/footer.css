@@ -1,0 +1,13 @@
+footer.container {
+    padding: 0;
+    background-color: hwb(339 88% 1%);
+}
+footer.f1{
+
+justify-content: right;
+}
+
+footer.f2{
+
+justify-content: left;
+}

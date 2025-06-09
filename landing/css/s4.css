@@ -1,0 +1,27 @@
+#s4 {
+    padding: 0;
+    min-height: 0;
+}
+
+#s4 .inside {
+    margin: 0;
+    max-width: none;
+}
+
+#s4 .item {
+
+}
+
+#s4 .item img {
+    display: block;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+#s4 .swiper-pagination-bullet-active {
+    background:rgb(211, 35, 64);
+}
+
+#s4 .swiper-button-next, .swiper-button-prev {
+    color:rgb(211, 35, 64);
+}
